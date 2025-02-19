@@ -1,1 +1,4 @@
 data/sudoku.csv
+data/sudoku_1M.csv
+data/sudoku_graphs.pt
+data/sudoku_gcn.pth
